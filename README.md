@@ -1,6 +1,20 @@
-# DataTableUi
+# Specifics:
+
+The project takes two objects:
+
+ `columnOptions`: Includes the name, sortability (by user), and cell size (small or regular) for the column headers
+
+ `userData`: Entire data that will be displayed on the table.
+
+ Currently both objects are hardcoded, but the code works that with a small adjustment, the table should correctly display any user input, given that they are in the correct object format.
+
+ For the sake of simplicity, the cell size option is only limited to two size, small and regular.
+
+
+# Data Table UI
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.5.
+
 
 ## Development server
 

@@ -1,0 +1,22 @@
+table {
+  margin: auto;
+  width: 80%;
+}
+
+th.mat-sort-header-sorted {
+  color: black;
+  width: auto;
+}
+
+th {
+  padding: 0 24px !important;
+}
+
+td {
+  padding: 0 24px !important;
+}
+
+.small-cell {
+  width: 10%;
+  background-color: rgb(44, 34, 136);
+}
